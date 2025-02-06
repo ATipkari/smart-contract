@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+dist/
+.cache/
+coverage/
+hardhat-cache/
+typechain/
+artifacts/
+out/
+
+# Environment variables
+.env
+
+# Hardhat temporary files
+*.tsbuildinfo
+*.log
