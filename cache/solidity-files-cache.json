@@ -36,6 +36,42 @@
       "artifacts": [
         "Variable"
       ]
+    },
+    "F:\\Solidity\\contracts\\Array.sol": {
+      "lastModificationDate": 1738847683679,
+      "contentHash": "555aa51f675d66a0f340415a572074ec",
+      "sourceName": "contracts/Array.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "Array"
+      ]
     }
   }
 }
