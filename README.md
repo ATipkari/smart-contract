@@ -1,16 +1,28 @@
-Solidity Practice with Hardhat
+# 🏗 Solidity Practice with Hardhat & Web3.js
 
-Welcome to my Solidity Practice repository! This repository is dedicated to practicing Solidity smart contracts and exploring blockchain development using the Hardhat framework. It includes multiple smart contracts, tests, and configurations that I've developed as part of my learning journey in Ethereum and smart contract development.
+Welcome to my Solidity practice repository! 🚀 This project helps me **learn and experiment** with **Solidity, Hardhat, and Web3.js** by deploying smart contracts on a local blockchain.  
 
-🚀 Features
-Solidity Smart Contracts: Learn the fundamentals of Solidity through practical implementations.
-Hardhat Framework: Utilizing Hardhat to compile, deploy, and test Solidity contracts locally on a simulated blockchain.
-Testing: Automated tests using Hardhat's testing environment to ensure correctness and security of contracts.
-Local Blockchain: Interact with a personal Ethereum node running locally for testing and contract deployment.
+---
 
-🛠️ Tech Stack
-Solidity: A programming language for writing smart contracts.
-Hardhat: A development environment for compiling, deploying, and testing Solidity contracts.
-Ethereum: The blockchain platform where Solidity contracts are deployed.
-Ganache: Hardhat uses an in-memory blockchain for local testing and contract execution.
-Web3.js: Interacting with smart contracts from JavaScript.
+## 📌 **Features**
+✅ Write and deploy **Solidity smart contracts**  
+✅ Use **Hardhat** for local blockchain simulation  
+✅ Interact with contracts using **Web3.js**  
+✅ Test **state variables, mappings, arrays, and functions**  
+✅ Learn **gas optimization, memory management, and security best practices**  
+
+---
+
+## 🔧 **Technologies Used**
+- **Solidity** (`^0.8.x`) – Smart contract development  
+- **Hardhat** – Local Ethereum development environment  
+- **Web3.js** – JavaScript library for blockchain interaction  
+- **Node.js** – Backend scripting and automation  
+
+---
+
+## 🚀 **Getting Started**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/solidity-practice.git
+cd solidity-practice
