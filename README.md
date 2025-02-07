@@ -25,4 +25,4 @@ Welcome to my Solidity practice repository! 🚀 This project helps me **learn a
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/your-username/solidity-practice.git
-cd solidity-practice
+cd solidity
